@@ -1,0 +1,13 @@
+{
+    "spec": {
+        "template_id": "kmt",
+        "targets": {
+            "server": {
+                "engine": [
+                    "ktor"
+                ]
+            }
+        }
+    },
+    "timestamp": "2024-10-14T14:08:10.366475784Z"
+}
